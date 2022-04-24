@@ -1,0 +1,8 @@
+div{
+    text-align: center;
+}
+
+#check{
+    background-color: cyan;
+    cursor: pointer;
+}
